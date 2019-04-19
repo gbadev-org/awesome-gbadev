@@ -15,6 +15,10 @@ A curated list of development resources for Game Boy Advance.
 
 - [gba_bios](https://github.com/PikalaxALT/gba_bios) - (Work in progress) Disassembly of the Game Boy Advance BIOS
 
+### Dumping the GBA BIOS
+
+- [Cracking the GBA BIOS](https://mgba.io/2017/06/30/cracking-gba-bios/) by endrift
+- [Dumping the GBA BIOS](https://gist.github.com/MerryMage/797c523724e2dc02ada86a1cfadea3ee), another method by MerryMage
 
 ## Tutorials
 
