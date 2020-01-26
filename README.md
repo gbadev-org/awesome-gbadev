@@ -37,5 +37,4 @@ A curated list of development resources for Game Boy Advance.
 
 ## Rom Hacking
 
-- [Reverse Engineering a GameBoy Advance Game](https://medium.com/@bruno.macabeus/reverse-engineering-a-gameboy-advance-game-introduction-ec185bd8e02) - A series of very detailed posts and talks about developing a level editor for Klonoa's game (in English and in Portuguese) 🖌
-- [klo-gba.js](https://github.com/macabeus/klo-gba.js) - Level editor for the Klonoa's game 🧢
+- [Reverse Engineering a GameBoy Advance Game](https://medium.com/@bruno.macabeus/reverse-engineering-a-gameboy-advance-game-introduction-ec185bd8e02) - A series of detailed posts and talks about developing a [level editor](https://github.com/macabeus/klo-gba.js) for *Klonoa: Empire of Dreams*
