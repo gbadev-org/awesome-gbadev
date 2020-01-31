@@ -5,6 +5,10 @@ A curated list of development resources for Game Boy Advance.
 > WORK IN PROGRESS
 > You're welcome to contribute on discord or opening Issues
 
+## Introduction
+
+- [Technical introduction to the GBA](https://copetti.org/projects/consoles/game-boy-advance)
+
 ## Documentation
 
 - [GBATEK](https://problemkaputt.de/gbatek.htm) - Technical Info
@@ -14,16 +18,55 @@ A curated list of development resources for Game Boy Advance.
 ## Tutorials
 
 - [Tonc](https://www.coranac.com/tonc/text/toc.htm) - Complete programming tutorial
-- [Sound on the Gameboy Advance](http://web.archive.org/web/20140511141055/http://deku.rydia.net/program/sound1.html) - How to write your own sound mixer / MOD music player
+- [Sound on the Gameboy Advance](https://deku.gbadev.org/program/sound1.html) - How to write your own sound mixer / MOD music player
+
+## Community
+
+- [#gba on gbdev Discord Server](https://discord.gg/gpBxq85) - Perhaps the only truely active GBA community today.
+- [GBADEV](https://gbadev.org) - Tons and tons of info on GBA development: homebrew, tools, documentation.. Clearly laid out.
+- [GBATEMP](https://gbatemp.net/categories/nintendo-gba-discussions.32/) - The site carries the GBA name, but now the console is relegated to the backbenches.
 
 ## Articles
 
 - [Gameboy Advance Resource Management](https://www.gamasutra.com/view/feature/131491/gameboy_advance_resource_management.php) - Allocation techniques for the GBA's various memory regions
 - [Managing Sprite Cel VRAM on the Game Boy Advance](https://pineight.com/gba/managing-sprite-vram.txt) - Analysis of the VRAM streaming approach for animated sprites
 
+## Compilers
+
+- [Devkitpro](https://devkitpro.org) - C/C++ compiler. Installation is through Pacman these days.
+
+### GBA programming toolkit in language X
+
+- [rust-console](https://github.com/rust-console/gba) - GBA programming in Rust, plus tutorial.
+- [natu](https://github.com/exelotl/natu) - GBA programming in Nim (loosely based on Tonc tutorial)
+- [gba-modern](https://github.com/JoaoBaptMG/gba-modern) - Write GBA games using modern C++.
+
 ## Libraries
 
+- [gba++](https://github.com/felixjones/gbaplusplus) - Modern C++ library for GBA.
+- [Maxmod](https://maxmod.devkitpro.org) - Mixes music and sound effects for your games.
 - [posprintf](http://www.danposluns.com/gbadev/posprintf/index.html) - An `sprintf` routine written in Thumb assembler.
+- [GBFS](https://pineight.com/gba) - practical filesystem
+
+## Emulators
+
+- [mGBA](https://mgba.io) - Actively developed GBA emulator. Runs on a bunch of platforms. Text debugger through GDB stub.
+- [No$gba](https://problemkaputt.de/gba.htm) - Venerable GBA emulator. Windows only, but runs well under Wine. Not very actively maintained but still gets updates now and then. Sports graphical debugger.
+- [MiSTer FPGA implementation](https://github.com/MiSTer-devel/GBA_MiSTer) - Needs [MiSTer](https://github.com/MiSTer-devel/Main_MiSTer/wiki) setup to run.
+
+## Test suites
+
+- [mGBA test suite](https://github.com/mgba-emu/suite)
+- [GBA Suite](https://github.com/jsmolka/gba-suite)
+- [240p-test-mini](https://github.com/pinobatch/240p-test-mini) - video signal tests
+
+## Homebrew
+
+### Homebrew with source code
+
+- [Goodboy Advance - game jam version](https://github.com/exelotl/goodboy-advance) - Made in 2018, and has a nice bit of information on how it's made.
+- [Celeste Classic](https://github.com/JeffRuLz/Celeste-Classic-GBA) - 2019 port of Pico8 version of Celeste.
+- [GBADoom](https://github.com/doomhack/GBADoom) - 2019/2020 GBA port of prBoom version of Doom.
 
 ## Miscellanea
 
