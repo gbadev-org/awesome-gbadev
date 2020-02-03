@@ -44,6 +44,7 @@ A curated list of development resources for Game Boy Advance.
 - [rust-console](https://github.com/rust-console/gba) - GBA programming in Rust, plus tutorial.
 - [natu](https://github.com/exelotl/natu) - GBA programming in Nim (loosely based on Tonc tutorial)
 - [gba-modern](https://github.com/JoaoBaptMG/gba-modern) - Write GBA games using modern C++.
+- [ZigGBA](https://github.com/wendigojaeger/ZigGBA) - Work in progress SDK for creating GBA games using Zig (Inspired by Tonc).
 
 ## Libraries
 
