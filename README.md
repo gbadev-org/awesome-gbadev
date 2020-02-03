@@ -2,7 +2,31 @@
 
 A curated list of development resources for Game Boy Advance.
 
-> Links marked with *WIP* are Work In Progress and still in development - don't expect complete resources.
+#### Work in progress notice
+This list is still in early development. Please contribute adding resources or providing feedback through Pull Requests, Issues or joining us on [Discord](https://t.co/eQT0k9baJp).
+
+## Table of Content
+
+- [Introduction](#introduction)
+  * [Community](#community)
+- [Documentation](#documentation)
+  * [Tutorials](#tutorials)
+  * [Articles](#articles)
+- [Software Development](#software-development)
+  * [Compilers](#compilers)
+  * [Toolkits](#toolkits)
+  * [Libraries](#libraries)
+  * [Emulators](#emulators)
+- [Emulator Development](#emulator-development)
+  * [Testing](#testing)
+- [Homebrews](#homebrews)
+- [Miscellanea](#miscellanea)
+  * [Dumping the GBA BIOS](#dumping-the-gba-bios)
+  * [Reverse engineering](#reverse-engineering)
+
+--- 
+
+Links marked with *WIP* are Work In Progress and still in development - don't expect complete resources.
 
 # Introduction
 
@@ -38,7 +62,7 @@ A curated list of development resources for Game Boy Advance.
 
 - [Devkitpro](https://devkitpro.org) - C/C++ compiler.
 
-### GBA programming toolkit in language X
+### Toolkits
 
 - [rust-console](https://github.com/rust-console/gba) - GBA programming in Rust, plus tutorial.
 - [natu](https://github.com/exelotl/natu) - GBA programming in Nim (loosely based on Tonc tutorial)
