@@ -2,8 +2,7 @@
 
 A curated list of development resources for Game Boy Advance.
 
-> WORK IN PROGRESS
-> You're welcome to contribute on discord or opening Issues
+> Links marked with *WIP* are Work In Progress and still in development - don't expect complete resources.
 
 # Introduction
 
@@ -44,7 +43,7 @@ A curated list of development resources for Game Boy Advance.
 - [rust-console](https://github.com/rust-console/gba) - GBA programming in Rust, plus tutorial.
 - [natu](https://github.com/exelotl/natu) - GBA programming in Nim (loosely based on Tonc tutorial)
 - [gba-modern](https://github.com/JoaoBaptMG/gba-modern) - Write GBA games using modern C++.
-- [ZigGBA](https://github.com/wendigojaeger/ZigGBA) - Work in progress SDK for creating GBA games using Zig (Inspired by Tonc).
+- [ZigGBA](https://github.com/wendigojaeger/ZigGBA) - WIP SDK for creating GBA games using Zig (Inspired by Tonc).
 
 ## Libraries
 
@@ -75,7 +74,7 @@ A curated list of development resources for Game Boy Advance.
 
 # Miscellanea
 
-- [gba_bios](https://github.com/PikalaxALT/gba_bios) - (Work in progress) Disassembly of the Game Boy Advance BIOS
+- [gba_bios](https://github.com/PikalaxALT/gba_bios) - WIP disassembly of the Game Boy Advance BIOS
 
 ## Dumping the GBA BIOS
 
