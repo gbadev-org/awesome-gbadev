@@ -3,7 +3,7 @@
 A curated list of development resources for Game Boy Advance.
 
 #### Work in progress notice
-This list is still in early development. Please contribute adding resources or providing feedback through Pull Requests, Issues or joining us on [Discord](https://t.co/eQT0k9baJp).
+This list is still in early development. Please contribute adding resources or providing feedback through Pull Requests, Issues or joining us on [Discord](https://discord.gg/3ktqzBY).
 
 ## Table of Content
 
