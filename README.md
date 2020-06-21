@@ -61,6 +61,7 @@ Links marked with *WIP* are Work In Progress and still in development - don't ex
 ## Compilers
 
 - [Devkitpro](https://devkitpro.org) - C/C++ compiler.
+- [gba-toolchain](https://github.com/felixjones/gba-toolchain) - GNU Arm Embedded Toolchain based alternative to devkitARM.
 
 ### Toolkits
 
