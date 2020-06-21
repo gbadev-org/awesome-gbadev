@@ -24,7 +24,7 @@ This list is still in early development. Please contribute adding resources or p
   * [Dumping the GBA BIOS](#dumping-the-gba-bios)
   * [Reverse engineering](#reverse-engineering)
 
---- 
+---
 
 Links marked with *WIP* are Work In Progress and still in development - don't expect complete resources.
 
@@ -56,11 +56,12 @@ Links marked with *WIP* are Work In Progress and still in development - don't ex
 
 
 
-# Software Development 
+# Software Development
 
 ## Compilers
 
 - [Devkitpro](https://devkitpro.org) - C/C++ compiler.
+- [gba-toolchain](https://github.com/felixjones/gba-toolchain) - GNU Arm Embedded Toolchain based alternative to devkitARM.
 
 ### Toolkits
 
@@ -71,7 +72,7 @@ Links marked with *WIP* are Work In Progress and still in development - don't ex
 
 ## Libraries
 
-- [gba++](https://github.com/felixjones/gbaplusplus) - Modern C++ library for GBA.
+- [gba++](https://github.com/felixjones/gbaplusplus) - WIP modern C++ header-only library for GBA.
 - [Maxmod](https://maxmod.devkitpro.org) - Mixes music and sound effects for your games.
 - [posprintf](http://www.danposluns.com/gbadev/posprintf/index.html) - An `sprintf` routine written in Thumb assembler.
 - [GBFS](https://pineight.com/gba) - practical filesystem
