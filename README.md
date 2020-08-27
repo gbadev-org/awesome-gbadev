@@ -79,7 +79,7 @@ Links marked with *WIP* are Work In Progress and still in development - don't ex
 - [Krawall](https://github.com/sebknzl/krawall) - Music and sound effects library (supports .xm, .s3m)
 - [Pimpmobile](https://github.com/kusma/pimpmobile) - Music library (supports .mod, .xm)
 - [posprintf](http://www.danposluns.com/gbadev/posprintf/index.html) - An `sprintf` routine written in Thumb assembler.
-- [GBFS](https://pineight.com/gba) - Practical filesystem
+- [GBFS](https://pineight.com/gba/#gbfs) - Practical filesystem
 
 ## Emulators
 
