@@ -100,10 +100,11 @@ Links marked with *WIP* are Work In Progress and still in development - don't ex
 - [Goodboy Advance](https://github.com/exelotl/goodboy-advance) - Made in 2018, and has a nice bit of information on how it's made.
 - [Celeste Classic](https://github.com/JeffRuLz/Celeste-Classic-GBA) - 2019 port of Pico8 version of Celeste.
 - [GBADoom](https://github.com/doomhack/GBADoom) - 2019/2020 GBA port of prBoom version of Doom.
+- [BlindJump](https://github.com/evanbowman/blind-jump-portable) - Adventure game, developed in 2020. Uses CMake rather than libgba's makefiles. Implementation of link-cable multiplayer, fully digital audio.
 
-# Disassemblies of ROMS
+# Decompilation of ROMS
 
-- [Pokemon Ruby](https://github.com/pret/pokeruby) - C programming language translation of a Pokemon Ruby disassembly
+- [Pokemon Ruby](https://github.com/pret/pokeruby) - C programming language annotation of a Pokemon Ruby disassembly
 
 # Miscellanea
 
