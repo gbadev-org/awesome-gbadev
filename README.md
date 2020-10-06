@@ -101,6 +101,10 @@ Links marked with *WIP* are Work In Progress and still in development - don't ex
 - [Celeste Classic](https://github.com/JeffRuLz/Celeste-Classic-GBA) - 2019 port of Pico8 version of Celeste.
 - [GBADoom](https://github.com/doomhack/GBADoom) - 2019/2020 GBA port of prBoom version of Doom.
 
+# Disassemblies of ROMS
+
+- [Pokemon Ruby](https://github.com/pret/pokeruby) - C programming language translation of a Pokemon Ruby disassembly
+
 # Miscellanea
 
 - [gba_bios](https://github.com/PikalaxALT/gba_bios) - WIP disassembly of the Game Boy Advance BIOS
