@@ -100,6 +100,7 @@ Links marked with *WIP* are Work In Progress and still in development - don't ex
 - [Goodboy Advance](https://github.com/exelotl/goodboy-advance) - Made in 2018, and has a nice bit of information on how it's made.
 - [Celeste Classic](https://github.com/JeffRuLz/Celeste-Classic-GBA) - 2019 port of Pico8 version of Celeste.
 - [GBADoom](https://github.com/doomhack/GBADoom) - 2019/2020 GBA port of prBoom version of Doom.
+- [BlindJump](https://github.com/evanbowman/blind-jump-portable) - Adventure game, developed in 2020. Implementation of link-cable multiplayer, fully digital audio.
 
 # Miscellanea
 
@@ -115,6 +116,7 @@ Links marked with *WIP* are Work In Progress and still in development - don't ex
 ## Reverse engineering
 
 - [Reverse Engineering a GameBoy Advance Game](https://medium.com/@bruno.macabeus/reverse-engineering-a-gameboy-advance-game-introduction-ec185bd8e02) - A series of detailed posts and talks about developing a [level editor](https://github.com/macabeus/klo-gba.js) for *Klonoa: Empire of Dreams*
+- [Pokemon Ruby](https://github.com/pret/pokeruby) - C programming language annotation of a Pokemon Ruby disassembly
 
 ## Historical links
 - [HAM mirror](https://github.com/Sterophonick/Mirror-HAM) - A classic SDK from back in the day :)
