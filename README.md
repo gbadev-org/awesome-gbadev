@@ -69,6 +69,7 @@ Links marked with *WIP* are Work In Progress and still in development - don't ex
 - [natu](https://github.com/exelotl/natu) - GBA programming in Nim (provides wrapper around libtonc, maxmod and more).
 - [gba-modern](https://github.com/JoaoBaptMG/gba-modern) - Write GBA games using modern C++.
 - [ZigGBA](https://github.com/wendigojaeger/ZigGBA) - WIP SDK for creating GBA games using Zig (Inspired by Tonc).
+- [Butano](https://github.com/GValiente/butano) - Modern C++ high level engine for the GBA.
 
 ## Libraries
 
@@ -120,4 +121,5 @@ Links marked with *WIP* are Work In Progress and still in development - don't ex
 
 ## Historical links
 - [HAM mirror](https://github.com/Sterophonick/Mirror-HAM) - A classic SDK from back in the day :)
+- [HEL](http://www.console-dev.de/project/hel-library-for-gba/) - GBA C library built on top of HAM
 - [Headspin's Guide](http://members.iinet.net.au/~freeaxs/gbacomp/) to Compression, Files Systems, Screen Effects and MOD Players for the Gameboy Advance
