@@ -74,10 +74,12 @@ Links marked with *WIP* are Work In Progress and still in development - don't ex
 ## Libraries
 
 - [gba++](https://github.com/felixjones/gbaplusplus) - WIP modern C++ header-only library for GBA.
+- [agbabi](https://github.com/felixjones/agbabi) - System functions (memory, division, interrupts, coroutines)
 - [HeartLib](https://github.com/Sterophonick/HeartLib) - Comprehensive C library inspired by the classic HAMLib.
 - [GBAdv](https://github.com/sverx/GBAdv) - High level utilities on top of libgba.
-- [Maxmod](https://maxmod.devkitpro.org) - Music and sound effects library (supports .mod, .xm, .s3m, .it)
-- [Krawall](https://github.com/sebknzl/krawall) - Music and sound effects library (supports .xm, .s3m)
+- [Maxmod](https://maxmod.devkitpro.org) - Music and sound library (supports .mod, .xm, .s3m, .it)
+- [Apex Audio System](https://github.com/stuij/apex-audio-system) - Music and sound library (supports .mod only, but _very_ good performance)
+- [Krawall](https://github.com/sebknzl/krawall) - Music and sound library (supports .xm, .s3m)
 - [Pimpmobile](https://github.com/kusma/pimpmobile) - Music library (supports .mod, .xm)
 - [posprintf](http://www.danposluns.com/gbadev/posprintf/index.html) - An `sprintf` routine written in Thumb assembler.
 - [GBFS](https://pineight.com/gba/#gbfs) - Practical filesystem
@@ -120,6 +122,5 @@ Links marked with *WIP* are Work In Progress and still in development - don't ex
 - [Pokemon Ruby](https://github.com/pret/pokeruby) - C programming language annotation of a Pokemon Ruby disassembly
 
 ## Historical links
-- [HAM mirror](https://github.com/Sterophonick/Mirror-HAM) - A classic SDK from back in the day :)
-- [HEL](http://www.console-dev.de/project/hel-library-for-gba/) - GBA C library built on top of HAM
+- [HEL](http://www.console-dev.de/project/hel-library-for-gba/) - GBA C library built on top of HAM (a classic SDK from back in the day)
 - [Headspin's Guide](http://members.iinet.net.au/~freeaxs/gbacomp/) to Compression, Files Systems, Screen Effects and MOD Players for the Gameboy Advance
