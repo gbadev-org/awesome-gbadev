@@ -74,7 +74,6 @@ Links marked with *WIP* are Work In Progress and still in development - don't ex
 ## Libraries
 
 - [gba++](https://github.com/felixjones/gbaplusplus) - WIP modern C++ header-only library for GBA.
-- [agbabi](https://github.com/felixjones/agbabi) - System functions (memory, division, interrupts, coroutines)
 - [HeartLib](https://github.com/Sterophonick/HeartLib) - Comprehensive C library inspired by the classic HAMLib.
 - [GBAdv](https://github.com/sverx/GBAdv) - High level utilities on top of libgba.
 - [Maxmod](https://maxmod.devkitpro.org) - Music and sound library (supports .mod, .xm, .s3m, .it)
