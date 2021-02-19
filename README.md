@@ -34,7 +34,7 @@ Links marked with *WIP* are Work In Progress and still in development - don't ex
 
 ## Community
 
-- [#gba on gbdev Discord Server](https://discord.gg/gpBxq85) - Perhaps the only truely active GBA community today.
+- [#gba on gbdev Discord Server](https://discord.gg/2WS7bpJ) - Perhaps the only truely active GBA community today.
 - [GBADEV](https://gbadev.org) - Tons and tons of info on GBA development: homebrew, tools, documentation.. Clearly laid out.
 - [GBATEMP](https://gbatemp.net/categories/nintendo-gba-discussions.32/) - The site carries the GBA name, but now the console is relegated to the backbenches.
 
