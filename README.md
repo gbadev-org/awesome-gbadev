@@ -37,6 +37,7 @@ Links marked with *WIP* are Work In Progress and still in development - don't ex
 - [#gba on gbdev Discord Server](https://discord.gg/2WS7bpJ) - Perhaps the only truely active GBA community today.
 - [GBADEV](https://gbadev.org) - Tons and tons of info on GBA development: homebrew, tools, documentation.. Clearly laid out.
 - [GBATEMP](https://gbatemp.net/categories/nintendo-gba-discussions.32/) - The site carries the GBA name, but now the console is relegated to the backbenches.
+- [GBA develop Wiki](http://akkera102.sakura.ne.jp/gbadev/) - Japanese wiki including many documentations, tutorials and source codes (especially an AVG game engine).
 
 # Documentation
 
