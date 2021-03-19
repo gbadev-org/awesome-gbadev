@@ -1,0 +1,1 @@
+- [GBA develop Wiki](http://akkera102.sakura.ne.jp/gbadev/) - Japanese wiki including many documentations, tutorials and source codes (especially an AVG game engine).
