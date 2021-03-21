@@ -72,6 +72,7 @@ Links marked with *WIP* are Work In Progress and still in development - don't ex
 
 ## Libraries
 
+- [agbabi](https://github.com/felixjones/agbabi) - Drop-in application binary interface library (context switching, division, irq, memcpy, sine).
 - [gba++](https://github.com/felixjones/gba-plusplus) - WIP modern C++ header-only library for GBA.
 - [HeartLib](https://github.com/Sterophonick/HeartLib) - Comprehensive C library inspired by the classic HAMLib.
 - [GBAdv](https://github.com/sverx/GBAdv) - High level utilities on top of libgba.
