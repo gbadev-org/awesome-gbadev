@@ -16,8 +16,6 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
   * [Toolkits](#toolkits)
   * [Libraries](#libraries)
   * [Emulators](#emulators)
-- [Emulator Development](#emulator-development)
-  * [Testing](#testing)
 - [Homebrews](#homebrews)
 - [Miscellanea](#miscellanea)
   * [Dumping the GBA BIOS](#dumping-the-gba-bios)
@@ -85,17 +83,7 @@ Links marked with *WIP* are Work In Progress and still in development - don't ex
 
 ## Emulators
 
-- [mGBA](https://mgba.io) - Actively developed GBA emulator. Runs on a bunch of platforms. Text debugger through GDB stub.
-- [No$gba](https://problemkaputt.de/gba.htm) - Venerable GBA emulator. Windows only, but runs well under Wine. Not very actively maintained but still gets updates now and then. Sports graphical debugger.
-- [MiSTer FPGA implementation](https://github.com/MiSTer-devel/GBA_MiSTer) - Needs [MiSTer](https://github.com/MiSTer-devel/Main_MiSTer/wiki) setup to run.
-
-# Emulator Development
-
-## Testing
-
-- [mGBA test suite](https://github.com/mgba-emu/suite)
-- [GBA Suite](https://github.com/jsmolka/gba-suite)
-- [240p-test-mini](https://github.com/pinobatch/240p-test-mini) - video signal tests
+- [Visual Boy Advance](https://www.youtube.com/watch?v=dQw4w9WgXcQ) - The superior GB emulator. "If it's good enough for Pokemon, it's good enough for me!"
 
 # Homebrews
 
