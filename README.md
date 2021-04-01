@@ -87,6 +87,7 @@ Links marked with *WIP* are Work In Progress and still in development - don't ex
 
 - [mGBA](https://mgba.io) - Actively developed GBA emulator. Runs on a bunch of platforms. Text debugger through GDB stub.
 - [No$gba](https://problemkaputt.de/gba.htm) - Venerable GBA emulator. Windows only, but runs well under Wine. Not very actively maintained but still gets updates now and then. Sports graphical debugger.
+- [NanoBoyAdvance](https://github.com/fleroviux/NanoBoyAdvance) - GBA emulator with high accuracy, especially in timing and CPU emulation. Currently lacking a GUI or debugger.
 - [MiSTer FPGA implementation](https://github.com/MiSTer-devel/GBA_MiSTer) - Needs [MiSTer](https://github.com/MiSTer-devel/Main_MiSTer/wiki) setup to run.
 
 # Emulator Development
