@@ -61,6 +61,7 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 
 - [devkitARM](https://devkitpro.org) - C/C++ cross-compiler toolchain, which includes libgba, libtonc, maxmod, and various tools and example projects.
 - [gba-toolchain](https://github.com/felixjones/gba-toolchain) - GNU Arm Embedded Toolchain based alternative to devkitARM.
+- [gvasm](https://github.com/velipso/gvasm) - Stand-alone assembler and disassembler (WIP) designed specifically for GBA homebrew
 
 ### Toolkits
 
