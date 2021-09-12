@@ -94,6 +94,7 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 - [gba-modern](https://github.com/JoaoBaptMG/gba-modern) - Write GBA games using modern C++.
 - [ZigGBA](https://github.com/wendigojaeger/ZigGBA) - WIP SDK for creating GBA games using Zig (Inspired by Tonc).
 - [Butano](https://github.com/GValiente/butano) - Modern C++ high level engine for the GBA.
+- [BPCore Engine](https://github.com/evanbowman/BPCore-Engine) - Create GBA applications with the Lua programming language
 
 ## Libraries
 
