@@ -100,6 +100,7 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 - [agbabi](https://github.com/felixjones/agbabi) - Drop-in application binary interface library (context switching, division, irq, memcpy, sine).
 - [gba-plusplus](https://github.com/felixjones/gba-plusplus) - Modern C++ alternative to libgba and libtonc.
 - [HeartLib](https://github.com/Sterophonick/HeartLib) - Comprehensive C library inspired by the classic HAMLib.
+- [libseven](https://github.com/LunarLambda/libseven) - Lightweight, from-scratch replacement for libgba.
 - [GBAdv](https://github.com/sverx/GBAdv) - High level utilities on top of libgba.
 - [Maxmod](https://maxmod.devkitpro.org) - Music and sound library (supports .mod, .xm, .s3m, .it)
 - [Apex Audio System](https://github.com/stuij/apex-audio-system) - Music and sound library (supports .mod only, but _very_ good performance)
