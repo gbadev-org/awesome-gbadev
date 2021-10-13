@@ -132,6 +132,7 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 - [GBADoom](https://github.com/doomhack/GBADoom) - 2019/2020 GBA port of prBoom version of Doom.
 - [BlindJump](https://github.com/evanbowman/blind-jump-portable) - Adventure game, developed in 2020. Implementation of link-cable multiplayer, fully digital audio.
 - [Tigermoth](https://github.com/pmprog/TigermothGBA) - Bullet hell game, developed for the GBAJam 2021
+- [Duster](https://github.com/redthing1/duster) - A sleek strategy board game for the gba 
 
 # Miscellanea
 
