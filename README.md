@@ -19,9 +19,11 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 - [Emulator Development](#emulator-development)
   * [Testing](#testing)
 - [Homebrews](#homebrews)
+  * [Jams](#jams)
 - [Miscellanea](#miscellanea)
   * [Dumping the GBA BIOS](#dumping-the-gba-bios)
   * [Reverse engineering](#reverse-engineering)
+  * [Historical links](#historical-links)
 
 ---
 
@@ -87,7 +89,7 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 - [gba-toolchain](https://github.com/felixjones/gba-toolchain) - GNU Arm Embedded Toolchain based alternative to devkitARM.
 - [gvasm](https://github.com/velipso/gvasm) - Stand-alone assembler and disassembler (WIP) designed specifically for GBA homebrew
 
-### Toolkits
+## Toolkits
 
 - [rust-console](https://github.com/rust-console/gba) - GBA programming in Rust, plus tutorial.
 - [natu](https://github.com/exelotl/natu) - GBA programming in Nim (provides wrapper around libtonc, maxmod and more).
@@ -133,6 +135,11 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 - [BlindJump](https://github.com/evanbowman/blind-jump-portable) - Adventure game, developed in 2020. Implementation of link-cable multiplayer, fully digital audio.
 - [Tigermoth](https://github.com/pmprog/TigermothGBA) - Bullet hell game, developed for the GBAJam 2021
 - [Duster](https://github.com/redthing1/duster) - A sleek strategy board game for the gba 
+
+# Jams
+
+- [GBA Jam 2021](https://itch.io/jam/gbajam21/entries)
+- [GBA Winter Jam '21](https://itch.io/jam/gba-winter-jam-2021/entries)
 
 # Miscellanea
 
