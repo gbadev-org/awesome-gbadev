@@ -98,6 +98,7 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 - [Butano](https://github.com/GValiente/butano) - Modern C++ high level engine for the GBA.
 - [BPCore Engine](https://github.com/evanbowman/BPCore-Engine) - Create GBA applications with the Lua programming language
 - [GBA Dlang](https://github.com/redthing1/gba_dlang) - WIP SDK for GBA development using D, using LLVM toolchain. provides fully functional TONC, GBFS, Maxmod.
+- [dusk](https://github.com/redthing1/dusk) - Simple, lightweight, intuitive framework for GBA game development
 
 ## Libraries
 
