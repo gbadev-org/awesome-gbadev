@@ -147,6 +147,7 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 
 - [gba_bios](https://github.com/PikalaxALT/gba_bios) - WIP disassembly of the Game Boy Advance BIOS
 - [GBA bare metal code](https://github.com/PeterLemon/GBA) - Various experiments by Krom, such as video playback and 3D, written in ARM Assembly
+- [dkarm_gba_docker](https://github.com/redthing1/dkarm_gba_docker) - A Docker image that includes DevkitARM and other GBA SDK tools, packaged together to allow a consistent toolchain configuration and reproducibility in builds. Also can be helpful in ensuring a consistent build environment for continuous integration.
 
 ## Dumping the GBA BIOS
 
