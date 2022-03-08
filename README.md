@@ -128,6 +128,7 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 - [mGBA test suite](https://github.com/mgba-emu/suite)
 - [GBA Suite](https://github.com/jsmolka/gba-suite)
 - [240p-test-mini](https://github.com/pinobatch/240p-test-mini) - video signal tests
+- [NBA hardware tests](https://github.com/nba-emu/hw-test)
 
 # Homebrews
 
