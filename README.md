@@ -112,6 +112,7 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 - [Apex Audio System](https://github.com/stuij/apex-audio-system) - Music and sound library (supports .mod only, but _very_ good performance)
 - [Krawall](https://github.com/sebknzl/krawall) - Music and sound library (supports .xm, .s3m)
 - [Pimpmobile](https://github.com/kusma/pimpmobile) - Music library (supports .mod, .xm)
+- [GBT Player](https://github.com/AntonioND/gbt-player) - Music library that uses the DMG sound channels (close to 0% CPU usage).
 - [posprintf](http://www.danposluns.com/gbadev/posprintf/index.html) - An `sprintf` routine written in Thumb assembler.
 - [GBFS](https://pineight.com/gba/#gbfs) - Practical filesystem
 
