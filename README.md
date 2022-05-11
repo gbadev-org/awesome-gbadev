@@ -91,30 +91,66 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 
 ## Toolkits
 
-- [rust-console](https://github.com/rust-console/gba) - GBA programming in Rust, plus tutorial.
-- [natu](https://github.com/exelotl/natu) - GBA programming in Nim (provides wrapper around libtonc, maxmod and more).
-- [gba-modern](https://github.com/JoaoBaptMG/gba-modern) - Write GBA games using modern C++.
-- [ZigGBA](https://github.com/wendigojaeger/ZigGBA) - WIP SDK for creating GBA games using Zig (Inspired by Tonc).
-- [Butano](https://github.com/GValiente/butano) - Modern C++ high level engine for the GBA.
-- [BPCore Engine](https://github.com/evanbowman/BPCore-Engine) - Create GBA applications with the Lua programming language
-- [GBA Dlang](https://github.com/redthing1/gba_dlang) - WIP SDK for GBA development using D, using LLVM toolchain. provides fully functional TONC, GBFS, Maxmod.
-- [dusk](https://github.com/redthing1/dusk) - Simple, lightweight, intuitive framework for GBA game development
-- [gbsenpai](https://github.com/asiekierka/gbsenpai) - GB Studio player GBA port with some enhancements.
+1. C and C++
+
+   - [gba-modern](https://github.com/JoaoBaptMG/gba-modern) - Write GBA games using modern C++.
+   - [dusk](https://github.com/redthing1/dusk) - Simple, lightweight, intuitive framework for GBA game development
+   - [Butano](https://github.com/GValiente/butano) - Modern C++ high level engine for the GBA.
+
+1. D
+
+   - [GBA Dlang](https://github.com/redthing1/gba_dlang) - WIP SDK for GBA development using D, using LLVM toolchain. provides fully functional TONC, GBFS, Maxmod.
+
+1. Lua
+
+   - [BPCore Engine](https://github.com/evanbowman/BPCore-Engine) - Create GBA applications with the Lua programming language
+
+1. Nim
+
+   - [natu](https://github.com/exelotl/natu) - GBA programming in Nim (provides wrapper around libtonc, maxmod and more).
+
+1. Rust
+
+   - [rust-console](https://github.com/rust-console/gba) - GBA programming in Rust, plus tutorial.
+
+1. Zig
+
+   - [ZigGBA](https://github.com/wendigojaeger/ZigGBA) - WIP SDK for creating GBA games using Zig (Inspired by Tonc).
+
+1. Other
+
+   - [gbsenpai](https://github.com/asiekierka/gbsenpai) - GB Studio player GBA port with some enhancements.
 
 ## Libraries
 
-- [agbabi](https://github.com/felixjones/agbabi) - Drop-in application binary interface library (context switching, division, irq, memcpy, sine).
-- [gba-plusplus](https://github.com/felixjones/gba-plusplus) - Modern C++ alternative to libgba and libtonc.
-- [HeartLib](https://github.com/Sterophonick/HeartLib) - Comprehensive C library inspired by the classic HAMLib.
-- [libseven](https://github.com/LunarLambda/libseven) - Lightweight, from-scratch replacement for libgba.
-- [GBAdv](https://github.com/sverx/GBAdv) - High level utilities on top of libgba.
-- [Maxmod](https://maxmod.devkitpro.org) - Music and sound library (supports .mod, .xm, .s3m, .it)
-- [Apex Audio System](https://github.com/stuij/apex-audio-system) - Music and sound library (supports .mod only, but _very_ good performance)
-- [Krawall](https://github.com/sebknzl/krawall) - Music and sound library (supports .xm, .s3m)
-- [Pimpmobile](https://github.com/kusma/pimpmobile) - Music library (supports .mod, .xm)
-- [GBT Player](https://github.com/AntonioND/gbt-player) - Music library that uses the DMG sound channels (close to 0% CPU usage).
-- [posprintf](http://www.danposluns.com/gbadev/posprintf/index.html) - An `sprintf` routine written in Thumb assembler.
-- [GBFS](https://pineight.com/gba/#gbfs) - Practical filesystem
+1. Audio
+
+   1. Software mixing
+
+      - [Apex Audio System](https://github.com/stuij/apex-audio-system) - Music and sound library (supports .mod only, but _very_ good performance)
+      - [Krawall](https://github.com/sebknzl/krawall) - Music and sound library (supports .xm, .s3m)
+      - [Maxmod](https://maxmod.devkitpro.org) - Music and sound library (supports .mod, .xm, .s3m, .it)
+      - [Pimpmobile](https://github.com/kusma/pimpmobile) - Music library (supports .mod, .xm)
+
+   1. DMG audio channels
+
+      - [GBT Player](https://github.com/AntonioND/gbt-player) - Music library that uses the DMG sound channels (close to 0% CPU usage).
+
+1. General
+
+   - [gba-plusplus](https://github.com/felixjones/gba-plusplus) - Modern C++ alternative to libgba and libtonc.
+   - [GBAdv](https://github.com/sverx/GBAdv) - High level utilities on top of libgba.
+   - [HeartLib](https://github.com/Sterophonick/HeartLib) - Comprehensive C library inspired by the classic HAMLib.
+   - [libseven](https://github.com/LunarLambda/libseven) - Lightweight, from-scratch replacement for libgba.
+
+1. Filesystems
+
+   - [GBFS](https://pineight.com/gba/#gbfs) - Practical filesystem
+
+1. Other
+
+   - [agbabi](https://github.com/felixjones/agbabi) - Drop-in application binary interface library (context switching, division, irq, memcpy, sine).
+   - [posprintf](http://www.danposluns.com/gbadev/posprintf/index.html) - An `sprintf` routine written in Thumb assembler.
 
 ## Emulators
 
