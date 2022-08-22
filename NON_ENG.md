@@ -1,1 +1,2 @@
 - [GBA develop Wiki](http://akkera102.sakura.ne.jp/gbadev/) - Japanese wiki including many documentations, tutorials and source codes (especially an AVG game engine).
+- [GBAで動画再生](http://tech.g1.xrea.com/notes/gba-music.htm) - A summary of video codec and players on GBA.
