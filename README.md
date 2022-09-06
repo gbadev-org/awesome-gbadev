@@ -100,7 +100,6 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 - [GBA Dlang](https://github.com/redthing1/gba_dlang) - WIP SDK for GBA development using D, using LLVM toolchain. provides fully functional TONC, GBFS, Maxmod.
 - [dusk](https://github.com/redthing1/dusk) - Simple, lightweight, intuitive framework for GBA game development
 - [gbsenpai](https://github.com/asiekierka/gbsenpai) - GB Studio player GBA port with some enhancements.
-- [gbalvns](https://github.com/laqieer/gbalvns) - A VN/AVG/ADV/Gal game engine for GBA.
 
 ## Libraries
 
@@ -143,7 +142,6 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 - [Tigermoth](https://github.com/pmprog/TigermothGBA) - Bullet hell game, developed for the GBAJam 2021
 - [Duster](https://github.com/redthing1/duster) - A sleek strategy board game for the gba 
 - [OpenLara](https://github.com/XProger/OpenLara) - Classic Tomb Raider open-source engine
-- [SS6PlayerForGBA](https://github.com/laqieer/SS6PlayerForGBA) - 2D skeletal animation engine.
 
 # Jams
 
