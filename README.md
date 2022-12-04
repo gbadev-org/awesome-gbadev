@@ -33,8 +33,8 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 
 ## Community
 
-- [GBAdev Forum](https://forum.gbadev.net) - Our new hub for announcements and long-form discussion.
-- [GBAdev Discord](https://discord.io/gbadev) - This is the most popular place to chat nowadays. Come say hi!  
+- [GBAdev Forum](https://forum.gbadev.net) - Our new hub for announcements and long-form discussion. It's a good place to ask questions and share progress on your projects.
+- [GBAdev Discord](https://discord.io/gbadev) - This is where everyone hangs out to chat nowadays. Come say hi!  
   <details>
   <summary><em>Info for IRC users</em></summary>
 
