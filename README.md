@@ -33,7 +33,8 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 
 ## Community
 
-- [GBADev Discord Server](https://discord.io/gbadev) - This is where everyone hangs out nowadays. Come say hi!  
+- [GBAdev Forum](https://forum.gbadev.net) - Our new hub for announcements and long-form discussion. It's a good place to ask questions and share progress on your projects.
+- [GBAdev Discord](https://discord.io/gbadev) - This is where everyone hangs out to chat nowadays. Come say hi!  
   <details>
   <summary><em>Info for IRC users</em></summary>
 
@@ -51,15 +52,17 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
   `#gba-music`     - listening, composing and audio programming  
   `#gba-offtopic`  - off-topic chat  
   `#gba-docs`      - community documentation projects (tutorials, technical docs etc.)  
-  `#gba-tools`     - tool discussion (grit, tiled, aseprite, etc.)  
+  `#gbajam`        - hang out with other GBA Jam participants & share your progress  
 
   **Project-specific channels**  
   `#gba-toolchain` - gba-toolchain, agbabi and gba-plusplus development & support  
   `#butano`        - Butano engine development & support  
   `#natu`          - Natu toolkit development & support  
   </details>
-- [GBADev](https://gbadev.org) - The longstanding homepage of the scene. Regularly updated with the lastest news and releases.
-- [GBAtemp](https://gbatemp.net/categories/nintendo-gba-discussions.32/) - The site carries the GBA name, but now the console is relegated to the backbenches.
+  
+### Other places
+- [GBAdev.org](https://gbadev.org) - The longstanding homepage of the scene. Still updated with news and releases (but the forums have been broken for a while).
+- [GBAtemp](https://gbatemp.net/categories/nintendo-gba-discussions.32/) - The site carries the GBA name, but nowadays the console is relegated to the backbenches. It's a good place to talk about gaming and hardware though.
 
 # Documentation
 
@@ -146,6 +149,7 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 
 - [GBA Jam 2021](https://itch.io/jam/gbajam21/entries)
 - [GBA Winter Jam '21](https://itch.io/jam/gba-winter-jam-2021/entries)
+- [GBA Jam 2022](https://itch.io/jam/gbajam22/entries)
 
 # Miscellanea
 
