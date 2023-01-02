@@ -121,6 +121,7 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 - [GBT Player](https://github.com/AntonioND/gbt-player) - Music library that uses the DMG sound channels (close to 0% CPU usage).
 - [posprintf](http://www.danposluns.com/gbadev/posprintf/index.html) - An `sprintf` routine written in Thumb assembler.
 - [GBFS](https://pineight.com/gba/#gbfs) - Practical filesystem
+- [agb](https://github.com/agbrs/agb) - Rust library. It attempts to be a high level abstraction over the internal workings of the Game Boy Advance whilst still being high performance and memory efficient.
 
 ## Emulators
 
