@@ -121,6 +121,7 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 - [GBT Player](https://github.com/AntonioND/gbt-player) - Music library that uses the DMG sound channels (close to 0% CPU usage).
 - [posprintf](http://www.danposluns.com/gbadev/posprintf/index.html) - An `sprintf` routine written in Thumb assembler.
 - [GBFS](https://pineight.com/gba/#gbfs) - Practical filesystem
+- [libsavgba](https://github.com/laqieer/libsavgba) - A library to access various backup media in GBA cartridges.
 - [agb](https://github.com/agbrs/agb) - Rust library. It attempts to be a high level abstraction over the internal workings of the Game Boy Advance whilst still being high performance and memory efficient.
 
 ## Emulators
@@ -161,6 +162,7 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 - [gba_bios](https://github.com/PikalaxALT/gba_bios) - WIP disassembly of the Game Boy Advance BIOS
 - [GBA bare metal code](https://github.com/PeterLemon/GBA) - Various experiments by Krom, such as video playback and 3D, written in ARM Assembly
 - [dkarm_gba_docker](https://github.com/redthing1/dkarm_gba_docker) - A Docker image that includes DevkitARM and other GBA SDK tools, packaged together to allow a consistent toolchain configuration and reproducibility in builds. Also can be helpful in ensuring a consistent build environment for continuous integration.
+- [gba-free-fonts](https://github.com/laqieer/gba-free-fonts) - Free font resources for GBA game development.
 
 ## Dumping the GBA BIOS
 
@@ -172,6 +174,8 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 
 - [Reverse Engineering a GameBoy Advance Game](https://medium.com/@bruno.macabeus/reverse-engineering-a-gameboy-advance-game-introduction-ec185bd8e02) - A series of detailed posts and talks about developing a [level editor](https://github.com/macabeus/klo-gba.js) for *Klonoa: Empire of Dreams*
 - [Pokemon Ruby](https://github.com/pret/pokeruby) - C programming language annotation of a Pokemon Ruby disassembly
+- [ida_gba_stuff](https://github.com/laqieer/ida_gba_stuff) - GBA loader, plugins and scripts for IDA.
+- [gba_lib_func_sig](https://github.com/laqieer/gba_lib_func_sig) - Common library signatures for various reverse engineering tools.
 
 ## Historical links
 - [HEL](http://www.console-dev.de/project/hel-library-for-gba/) - GBA C library built on top of HAM (a classic SDK from back in the day)
