@@ -107,6 +107,8 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 - [gbsenpai](https://github.com/asiekierka/gbsenpai) - GB Studio player GBA port with some enhancements.
 - [meson-gba](https://github.com/LunarLambda/meson-gba) - Meson-based GBA toolkit with support for many different libraries and tools.
 - [sdk-seven](https://github.com/LunarLambda/sdk-seven) - (WIP) Modern C libraries, runtimes, and tooling for GBA development.
+- [rath](https://github.com/stuij/rath) - Forth programming environment for the Game Boy Advance
+- [ada-gba-dev](https://github.com/98devin/ada-gba-dev) - A build system, libraries, and tools for producing programs for the Game Boy Advance using the Ada programming language.
 
 ## Libraries
 
@@ -123,6 +125,7 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 - [posprintf](http://www.danposluns.com/gbadev/posprintf/index.html) - An `sprintf` routine written in Thumb assembler.
 - [GBFS](https://pineight.com/gba/#gbfs) - Practical filesystem
 - [agb](https://github.com/agbrs/agb) - Rust library. It attempts to be a high level abstraction over the internal workings of the Game Boy Advance whilst still being high performance and memory efficient.
+- [gbaLib](https://github.com/MnlPhlp/gbaLib) - Library for programming the GBA with TinyGo
 
 ## Emulators
 
