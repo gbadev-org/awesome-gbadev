@@ -132,6 +132,7 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 - [mGBA](https://mgba.io) - Actively developed GBA emulator. Runs on a bunch of platforms. Text debugger through GDB stub.
 - [No$gba](https://problemkaputt.de/gba.htm) - Venerable GBA emulator. Windows only, but runs well under Wine. Not very actively maintained but still gets updates now and then. Sports graphical debugger.
 - [NanoBoyAdvance](https://github.com/nba-emu/NanoBoyAdvance) - GBA emulator with high accuracy, especially in timing and CPU emulation. Does not have debugging features.
+- [SkyEmu](https://github.com/skylersaleh/SkyEmu) - GB/GBA/NDS Emulator with built in debuggers, REST API for scripting, and high accuracy. 
 - [MiSTer FPGA implementation](https://github.com/MiSTer-devel/GBA_MiSTer) - Needs [MiSTer](https://github.com/MiSTer-devel/Main_MiSTer/wiki) setup to run.
 
 # Emulator Development
