@@ -4,26 +4,29 @@ A curated list of development resources for Game Boy Advance.
 
 Contribute adding resources or providing feedback through Pull Requests, Issues or joining us on [Discord](https://discord.io/gbadev). You can find a web version of this list [here](https://gbadev.net).
 
-## Table of Content
+## Table of Contents
 
+- [Awesome Game Boy Advance development](#awesome-game-boy-advance-development)
+  - [Table of Contents](#table-of-contents)
 - [Introduction](#introduction)
-  * [Community](#community)
+  - [Community](#community)
+    - [Other places](#other-places)
 - [Documentation](#documentation)
-  * [Tutorials](#tutorials)
-  * [Articles](#articles)
+  - [Tutorials](#tutorials)
+  - [Articles](#articles)
 - [Software Development](#software-development)
-  * [Compilers](#compilers)
-  * [Toolkits](#toolkits)
-  * [Libraries](#libraries)
-  * [Emulators](#emulators)
+  - [Compilers](#compilers)
+  - [Toolkits](#toolkits)
+  - [Libraries](#libraries)
+  - [Emulators](#emulators)
 - [Emulator Development](#emulator-development)
-  * [Testing](#testing)
+  - [Testing](#testing)
 - [Homebrews](#homebrews)
-  * [Jams](#jams)
+- [Jams](#jams)
 - [Miscellanea](#miscellanea)
-  * [Dumping the GBA BIOS](#dumping-the-gba-bios)
-  * [Reverse engineering](#reverse-engineering)
-  * [Historical links](#historical-links)
+  - [Dumping the GBA BIOS](#dumping-the-gba-bios)
+  - [Reverse engineering](#reverse-engineering)
+  - [Historical links](#historical-links)
 
 ---
 
@@ -34,7 +37,7 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 ## Community
 
 - [GBAdev Forum](https://forum.gbadev.net) - Our new hub for announcements and long-form discussion. It's a good place to ask questions and share progress on your projects.
-- [GBAdev Discord](https://discord.io/gbadev) - This is where everyone hangs out to chat nowadays. Come say hi!  
+- [GBAdev Discord](https://discord.gg/ctGSNxRkg2) - This is where everyone hangs out to chat nowadays. Come say hi!  
   <details>
   <summary><em>Info for IRC users</em></summary>
 
@@ -62,7 +65,7 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
   
 ### Other places
 - [GBAdev.org](https://gbadev.org) - The longstanding homepage of the scene. Still updated with news and releases (but the forums have been broken for a while).
-- [GBAtemp](https://gbatemp.net/categories/nintendo-gba-discussions.32/) - The site carries the GBA name, but nowadays the console is relegated to the backbenches. It's a good place to talk about gaming and hardware though.
+- [GBAtemp](https://gbatemp.net/forums/nintendo-gba.339/) - The site carries the GBA name, but nowadays the console is relegated to the backbenches. It's a good place to talk about gaming and hardware though.
 
 # Documentation
 
@@ -152,7 +155,6 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 - [BlindJump](https://github.com/evanbowman/blind-jump-portable) - Adventure game, developed in 2020. Implementation of link-cable multiplayer, fully digital audio.
 - [Tigermoth](https://github.com/pmprog/TigermothGBA) - Bullet hell game, developed for the GBAJam 2021
 - [Duster](https://github.com/redthing1/duster) - A sleek strategy board game for the gba 
-- [OpenLara](https://github.com/XProger/OpenLara) - Classic Tomb Raider open-source engine
 
 # Jams
 
@@ -169,9 +171,9 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 
 ## Dumping the GBA BIOS
 
-- [Software interrupt $1F / MidiKey2Freq](https://gist.github.com/modwizcode/b4afc78ea74fb453be3bcaf3d3bc8adc), canonical method
+- [Software interrupt $1F / MidiKey2Freq](http://web.archive.org/web/20230321185310/https://gist.github.com/modwizcode/b4afc78ea74fb453be3bcaf3d3bc8adc), canonical method
 - [Cracking the GBA BIOS](https://mgba.io/2017/06/30/cracking-gba-bios/) by endrift
-- [Dumping the GBA BIOS](https://gist.github.com/MerryMage/797c523724e2dc02ada86a1cfadea3ee), another method by MerryMage
+- [Dumping the GBA BIOS](http://web.archive.org/web/20210616201436/https://gist.github.com/MerryMage/797c523724e2dc02ada86a1cfadea3ee), another method by MerryMage
 
 ## Reverse engineering
 
@@ -180,4 +182,4 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 
 ## Historical links
 - [HEL](http://www.console-dev.de/project/hel-library-for-gba/) - GBA C library built on top of HAM (a classic SDK from back in the day)
-- [Headspin's Guide](http://members.iinet.net.au/~freeaxs/gbacomp/) to Compression, Files Systems, Screen Effects and MOD Players for the Gameboy Advance
+- [Headspin's Guide](http://web.archive.org/web/20230130121359/http://members.iinet.net.au/~freeaxs/gbacomp/) to Compression, Files Systems, Screen Effects and MOD Players for the Gameboy Advance
