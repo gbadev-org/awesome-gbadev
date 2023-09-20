@@ -37,7 +37,7 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 ## Community
 
 - [GBAdev Forum](https://forum.gbadev.net) - Our new hub for announcements and long-form discussion. It's a good place to ask questions and share progress on your projects.
-- [GBAdev Discord](https://discord.gg/ctGSNxRkg2) - This is where everyone hangs out to chat nowadays. Come say hi!  
+- [GBAdev Discord](https://gbadev.net) - This is where everyone hangs out to chat nowadays. Come say hi!  
   <details>
   <summary><em>Info for IRC users</em></summary>
 
