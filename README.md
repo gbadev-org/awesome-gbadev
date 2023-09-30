@@ -55,7 +55,7 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
   `#gbajam`        - hang out with other GBA Jam participants & share your progress  
 
   **Project-specific channels**  
-  `#gba-toolchain` - gba-toolchain, agbabi and gba-plusplus development & support  
+  `#gba-toolchain` - gba-toolchain, agbabi, and gba-hpp development & support  
   `#butano`        - Butano engine development & support  
   `#natu`          - Natu toolkit development & support  
   </details>
@@ -113,7 +113,7 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 ## Libraries
 
 - [agbabi](https://github.com/felixjones/agbabi) - Drop-in application binary interface library (context switching, division, irq, memcpy, sine).
-- [gba-plusplus](https://github.com/felixjones/gba-plusplus) - Modern C++ alternative to libgba and libtonc.
+- [gba-hpp](https://github.com/felixjones/gba-hpp) - C++20 header-only library for GBA development.
 - [HeartLib](https://github.com/Sterophonick/HeartLib) - Comprehensive C library inspired by the classic HAMLib.
 - [libseven](https://github.com/LunarLambda/sdk-seven) - Modern, from-scratch replacement for libgba and libtonc.
 - [GBAdv](https://github.com/sverx/GBAdv) - High level utilities on top of libgba.
