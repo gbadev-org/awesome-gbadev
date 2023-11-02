@@ -57,8 +57,8 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
   **Project-specific channels**  
   `#gba-toolchain` - gba-toolchain, agbabi, and gba-hpp development & support  
   `#butano`        - Butano engine development & support  
-  `#natu`          - Natu toolkit development & support
-  `#sdk-seven`     - sdk-seven development & support
+  `#natu`          - Natu toolkit development & support  
+  `#sdk-seven`     - sdk-seven development & support  
   </details>
   
 ### Other places
