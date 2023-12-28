@@ -126,6 +126,7 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 - [GBFS](https://pineight.com/gba/#gbfs) - Practical filesystem
 - [agb](https://github.com/agbrs/agb) - Rust library. It attempts to be a high level abstraction over the internal workings of the Game Boy Advance whilst still being high performance and memory efficient.
 - [gbaLib](https://github.com/MnlPhlp/gbaLib) - Library for programming the GBA with TinyGo
+- [gba-link-connection](https://github.com/afska/gba-link-connection): A set of C++ libraries to interact with the Serial Port (Link Cable, Wireless Adapter, GPIO, SPI)
 
 ## Emulators
 
