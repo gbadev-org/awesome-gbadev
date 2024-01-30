@@ -58,6 +58,7 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
   `#gba-toolchain` - gba-toolchain, agbabi, and gba-hpp development & support  
   `#butano`        - Butano engine development & support  
   `#natu`          - Natu toolkit development & support  
+  `#sdk-seven`     - sdk-seven development & support  
   </details>
   
 ### Other places
@@ -106,7 +107,7 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 - [dusk](https://github.com/redthing1/dusk) - Simple, lightweight, intuitive framework for GBA game development
 - [gbsenpai](https://github.com/asiekierka/gbsenpai) - GB Studio player GBA port with some enhancements.
 - [meson-gba](https://github.com/LunarLambda/meson-gba) - Meson-based GBA toolkit with support for many different libraries and tools.
-- [sdk-seven](https://github.com/LunarLambda/sdk-seven) - (WIP) Modern C libraries, runtimes, and tooling for GBA development.
+- [sdk-seven](https://github.com/sdk-seven) - Modern runtime and tooling, and libraries for GBA development. Works with meson-gba or standalone.
 - [rath](https://github.com/stuij/rath) - Forth programming environment for the Game Boy Advance
 - [ada-gba-dev](https://github.com/98devin/ada-gba-dev) - A build system, libraries, and tools for producing programs for the Game Boy Advance using the Ada programming language.
 
@@ -115,7 +116,7 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 - [agbabi](https://github.com/felixjones/agbabi) - Drop-in application binary interface library (context switching, division, irq, memcpy, sine).
 - [gba-hpp](https://github.com/felixjones/gba-hpp) - C++20 header-only library for GBA development.
 - [HeartLib](https://github.com/Sterophonick/HeartLib) - Comprehensive C library inspired by the classic HAMLib.
-- [libseven](https://github.com/LunarLambda/sdk-seven) - Modern, from-scratch replacement for libgba and libtonc.
+- [libseven](https://github.com/sdk-seven/libseven) - Modern, from-scratch replacement for libgba and libtonc.
 - [GBAdv](https://github.com/sverx/GBAdv) - High level utilities on top of libgba.
 - [Maxmod](https://maxmod.devkitpro.org) - Music and sound library (supports .mod, .xm, .s3m, .it)
 - [Apex Audio System](https://github.com/stuij/apex-audio-system) - Music and sound library (supports .mod only, but _very_ good performance)
