@@ -79,7 +79,7 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 
 ## Articles
 
-- [Gameboy Advance Resource Management](https://www.gamasutra.com/view/feature/131491/gameboy_advance_resource_management.php) - Allocation techniques for the GBA's various memory regions
+- [Gameboy Advance Resource Management](https://www.gamedeveloper.com/programming/gameboy-advance-resource-management) - Allocation techniques for the GBA's various memory regions
 - [Managing Sprite Cel VRAM on the Game Boy Advance](https://pineight.com/gba/managing-sprite-vram.txt) - Analysis of the VRAM streaming approach for animated sprites
 - [Using Beepbox for GBA Music Composition](https://rentry.org/beepbox-gba-music)
 
