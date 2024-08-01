@@ -75,7 +75,7 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 
 - [Tonc](https://gbadev.net/tonc/) - The new, revamped but WIP version of the GBA Programming guide. The original version is [here](https://www.coranac.com/tonc/text/toc.htm)
 - [Compile C++ for GBA in under an hour](https://www.youtube.com/watch?v=EMeie_gSgDU) - Cinemint's video for getting started with C++/Butano
-- [Sound on the Gameboy Advance](https://deku.gbadev.org/program/sound1.html) - How to write your own sound mixer / MOD music player
+- [Sound on the Gameboy Advance](https://stuij.github.io/deku-sound-tutorial/) - How to write your own sound mixer / MOD music player
 
 ## Articles
 
