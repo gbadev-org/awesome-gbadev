@@ -34,33 +34,8 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 ## Community
 
 - [GBAdev Forum](https://forum.gbadev.net) - Our new hub for announcements and long-form discussion. It's a good place to ask questions and share progress on your projects.
-- [GBAdev Discord](https://gbadev.net) - This is where everyone hangs out to chat nowadays. Come say hi!  
-  <details>
-  <summary><em>Info for IRC users</em></summary>
+- [GBAdev Discord / IRC](https://gbadev.net/chat.html) - This is where everyone hangs out to chat nowadays. Come say hi!
 
-  All rooms are bridged to IRC channels on [EFnet](http://www.efnet.org/?module=servers).
-
-  **Main channel**  
-  `#gbadev`        - general chat  
-
-  **Additional channels**  
-  `#gba-meta`      - community feedback/discussion  
-  `#gba-help`      - help & support  
-  `#gba-emudev`    - emulator development  
-  `#gba-asm`       - ARM/Thumb assembly and CPU architecture  
-  `#gba-showcase`  - share what you're working on!  
-  `#gba-music`     - listening, composing and audio programming  
-  `#gba-offtopic`  - off-topic chat  
-  `#gba-docs`      - community documentation projects (tutorials, technical docs etc.)  
-  `#gbajam`        - hang out with other GBA Jam participants & share your progress  
-
-  **Project-specific channels**  
-  `#gba-toolchain` - gba-toolchain, agbabi, and gba-hpp development & support  
-  `#butano`        - Butano engine development & support  
-  `#natu`          - Natu toolkit development & support  
-  `#sdk-seven`     - sdk-seven development & support  
-  </details>
-  
 ### Other places
 - [GBAdev.org](https://gbadev.org) - The longstanding homepage of the scene. Still updated with news and releases (but the forums have been broken for a while).
 - [GBAtemp](https://gbatemp.net/categories/nintendo-gba-discussions.32/) - The site carries the GBA name, but nowadays the console is relegated to the backbenches. It's a good place to talk about gaming and hardware though.
