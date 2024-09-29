@@ -4,7 +4,7 @@ A curated list of development resources for Game Boy Advance.
 
 Contribute adding resources or providing feedback through Pull Requests, Issues or joining us on [Discord](https://discord.io/gbadev). You can find a web version of this list [here](https://gbadev.net).
 
-## Table of Content
+## Table of Contents
 
 - [Introduction](#introduction)
   * [Community](#community)
