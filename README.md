@@ -137,6 +137,8 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 - [GBA Winter Jam '21](https://itch.io/jam/gba-winter-jam-2021/entries)
 - [GBA Jam 2022](https://itch.io/jam/gbajam22/entries)
 - [GBA Winter Jam '23](https://itch.io/jam/gba-winter-jam-23)
+- [GBA Microjam '23](https://gbadev.itch.io/gba-microjam-23)
+- [GBA Jam 2024](https://itch.io/jam/gbajam24/entries)
 
 # Miscellanea
 
