@@ -161,4 +161,4 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 
 ## Historical links
 - [HEL](http://www.console-dev.de/project/hel-library-for-gba/) - GBA C library built on top of HAM (a classic SDK from back in the day)
-- [Headspin's Guide](http://members.iinet.net.au/~freeaxs/gbacomp/) to Compression, Files Systems, Screen Effects and MOD Players for the Gameboy Advance
+- [Headspin's Guide](https://web.archive.org/web/20230130121359/http://members.iinet.net.au/~freeaxs/gbacomp/) to Compression, Files Systems, Screen Effects and MOD Players for the Gameboy Advance
