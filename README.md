@@ -86,6 +86,7 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 - [sdk-seven](https://github.com/sdk-seven) - Modern runtime and tooling, and libraries for GBA development. Works with meson-gba or standalone.
 - [rath](https://github.com/stuij/rath) - Forth programming environment for the Game Boy Advance
 - [ada-gba-dev](https://github.com/98devin/ada-gba-dev) - A build system, libraries, and tools for producing programs for the Game Boy Advance using the Ada programming language.
+- [agb](https://agbrs.dev) - Rust high level framework for the GBA with a build system, asset importing, tracker player and graphics abstractions.
 
 ## Libraries
 
@@ -101,7 +102,6 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 - [GBT Player](https://github.com/AntonioND/gbt-player) - Music library that uses the DMG sound channels (close to 0% CPU usage).
 - [posprintf](http://www.danposluns.com/gbadev/posprintf/index.html) - An `sprintf` routine written in Thumb assembler.
 - [GBFS](https://pineight.com/gba/#gbfs) - Practical filesystem
-- [agb](https://github.com/agbrs/agb) - Rust library. It attempts to be a high level abstraction over the internal workings of the Game Boy Advance whilst still being high performance and memory efficient.
 - [gbaLib](https://github.com/MnlPhlp/gbaLib) - Library for programming the GBA with TinyGo
 - [gba-link-connection](https://github.com/afska/gba-link-connection): A set of C++ libraries to interact with the Serial Port (Link Cable, Wireless Adapter, GPIO, SPI)
 
