@@ -152,9 +152,9 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 
 ## Dumping the GBA BIOS
 
-- [Software interrupt $1F / MidiKey2Freq](https://gist.github.com/modwizcode/b4afc78ea74fb453be3bcaf3d3bc8adc), canonical method
+- [Software interrupt $1F / MidiKey2Freq](https://web.archive.org/web/20230321185310/https://gist.github.com/modwizcode/b4afc78ea74fb453be3bcaf3d3bc8adc), canonical method
 - [Cracking the GBA BIOS](https://mgba.io/2017/06/30/cracking-gba-bios/) by endrift
-- [Dumping the GBA BIOS](https://gist.github.com/MerryMage/797c523724e2dc02ada86a1cfadea3ee), another method by MerryMage
+- [Dumping the GBA BIOS](https://web.archive.org/web/20210616201436/https://gist.github.com/MerryMage/797c523724e2dc02ada86a1cfadea3ee), another method by MerryMage
 
 ## Reverse engineering
 
