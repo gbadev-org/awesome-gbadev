@@ -59,6 +59,10 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 - [Managing Sprite Cel VRAM on the Game Boy Advance](https://pineight.com/gba/managing-sprite-vram.txt) - Analysis of the VRAM streaming approach for animated sprites
 - [Using Beepbox for GBA Music Composition](https://rentry.org/beepbox-gba-music)
 
+## Hardware
+
+- [Game Boy Advance CPU Datasheet](https://github.com/Apolune-Labs/CPU_AGB_Datasheet) - Game Boy Advance CPU Datasheet (AGB CPU A/B/E)
+
 
 
 
