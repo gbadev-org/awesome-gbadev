@@ -149,6 +149,7 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 - [dkarm_gba_docker](https://github.com/redthing1/dkarm_gba_docker) - A Docker image that includes DevkitARM and other GBA SDK tools, packaged together to allow a consistent toolchain configuration and reproducibility in builds. Also can be helpful in ensuring a consistent build environment for continuous integration.
 - [Usenti](https://github.com/gb-archive/usenti) - Simple bitmap editor for paletted images aimed at GBA development.
 - [RGB55 colour picker](https://orangegb.com/BGR555/) - Tool for picking colours in the BGR555 colour format the GBA uses. 
+- [hash-bench-gba](https://github.com/dmang-dev/hash-bench-gba) - Hash-algorithm benchmark ROM that times 32 cryptographic and non-cryptographic hashes (CRC, MD5, SHA-1, BLAKE2s, etc.) on the ARM7TDMI and displays µs/iter and KB/s on screen, using libtonc.
 
 ## Dumping the GBA BIOS
 
