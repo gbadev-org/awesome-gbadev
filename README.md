@@ -132,6 +132,7 @@ Contribute adding resources or providing feedback through Pull Requests, Issues 
 - [Tigermoth](https://github.com/pmprog/TigermothGBA) - Bullet hell game, developed for the GBAJam 2021
 - [Duster](https://github.com/redthing1/duster) - A sleek strategy board game for the gba 
 - [OpenLara](https://github.com/XProger/OpenLara) - Classic Tomb Raider open-source engine
+- [totp-gba](https://github.com/dmang-dev/totp-gba) - TOTP (RFC 6238) two-factor authenticator with Seiko S-3511A hardware RTC support, twelve themes, and an OAM sprite cursor.
 
 # Jams
 
